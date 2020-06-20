@@ -39,6 +39,6 @@ Here are a few examples.
    <img width="350" alt="gol" src="https://user-images.githubusercontent.com/42802226/82419973-be822f80-9a9c-11ea-86e6-f88b288daa6d.PNG">
 
 
-* **For more examples , go-to the last part of the notebook**
+* **More examples are available in the notebook!**
 
 
