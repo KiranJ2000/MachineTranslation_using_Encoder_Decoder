@@ -1,0 +1,15 @@
+plotly
+
+pickle
+
+pandas
+
+numpy
+
+keras
+
+tensorflow
+
+sklearn
+
+
